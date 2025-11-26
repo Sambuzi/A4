@@ -42,14 +42,13 @@ Include:
 
 ### 3. **Documentazione**
 - File di riepilogo delle modifiche apportate dopo la valutazione euristica:  
-  👉 `docs/changes_from_heuristic.md`
+  👉 `docs/changes_from_heuristic.md`  da eseguire in futuro..
 - Eventuali annotazioni sul flusso utente o scelte progettuali (se presenti).
 
 ---
 
 ## 🛠️ Strumenti Utilizzati
 - **Figma** (strumento principale per prototipazione a media fedeltà)  
-- Esportazione in PNG/SVG per la cartella `/screens`  
 - GitHub per versionamento e struttura della consegna
 
 ---
