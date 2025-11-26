@@ -29,12 +29,11 @@ Le schermate rappresentano:
 - **Dashboard / Home principale**, con accesso al task principale.
 - **Schermata del flusso principale**, dove l’utente svolge l’azione chiave dell’app.
 
-Le immagini esportate sono disponibili nella cartella:  
-👉 `/screens`
+Le immagini esportate sono disponibili nel file pdf aggiunto nel repostitory oppure direttamente nel link sottocitato.
 
 ### 2. **Prototipo interattivo su Figma**
 Link al prototipo (versione interattiva):  
-👉 *[inserire link Figma]*
+👉 *[https://www.figma.com/design/2y6sMYMQTLThXH8omtlvpR/WellGym?t=vhtYGb2iCgy6e7Ss-0]*
 
 Include:
 - Frame collegati;
